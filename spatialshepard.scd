@@ -1,4 +1,4 @@
-// shepard tones by alberto de campo
+// shepard tones by [alberto de campo](https://github.com/adcxyz)
 // quadrified by rachel devorah
 
 s.boot;
